@@ -7,3 +7,7 @@
 // Null
 
 // Objects
+
+const x = 23;
+const explicit = String(x);
+const implicit = x + "";
